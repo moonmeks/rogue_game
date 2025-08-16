@@ -26,5 +26,6 @@
 1. Склонируй репозиторий:
    ```bash
    git clone https://github.com/moonmeks/rogue_game.git
-   cd rogue_game
+   
 2. Открой файл index.html в браузере.
+
