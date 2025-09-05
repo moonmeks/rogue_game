@@ -28,4 +28,9 @@
    
 2. Открой файл index.html в браузере.
 
+---
+![Image](https://github.com/moonmeks/rogue_game/blob/main/image_rogue.png)
+
+
+
 
